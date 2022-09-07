@@ -1,0 +1,22 @@
+{
+  "name": "vanillajs-redux",
+  "version": "1.0.0",
+  "description": "redux playground",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAENY007/vanillaJS-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAENY007/vanillaJS-redux/issues"
+  },
+  "homepage": "https://github.com/JAENY007/vanillaJS-redux#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
