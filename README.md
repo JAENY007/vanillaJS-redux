@@ -14,8 +14,10 @@
   - [X] 3. Create reducer
   - [X] 4. Create Subscriber
   - [X] 5. Execute Subscribe
-  - [X] 6. Run on Node.js => check Result
+  - [X] 6. Run on Node.js => check Result (Error)
   - [x] 7. State undefined => Give State: Default Value
-  - [x] 8. Run on Node.js => check Result
+  - [x] 8. Run on Node.js => check Result (It Works)
   - [x] 9. Works | but can't see log => Add console.log(store.getState())
-  - [x] 10. Run on Node.js => check Result
+  - [x] 10. Run on Node.js => check Result (Can see default value)
+  - [x] 11. Add Dispatch
+  - [x] 12. Run on Node.js => check Result (Can see value after works)

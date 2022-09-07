@@ -20,6 +20,7 @@ const counterReducer = (state = { counter: 0 }, action) => {
  */
 const store = redux.createStore(counterReducer);
 
+// Check DefaultState
 console.log(store.getState());
 
 /**
@@ -32,6 +33,11 @@ const counterSubscriber = () => {
 }
 
 /**
- * subscribe Function act
+ * subscribe Function execute
  */
 store.subscribe(counterSubscriber);
+
+/**
+ * dispatch Function execute
+ */
+store.dispatch({ type: 'increment' });
