@@ -14,4 +14,8 @@
   - [X] 3. Create reducer
   - [X] 4. Create Subscriber
   - [X] 5. Execute Subscribe
-  - [X] 6. Run on Node.js => check result
+  - [X] 6. Run on Node.js => check Result
+  - [x] 7. State undefined => Give State: Default Value
+  - [x] 8. Run on Node.js => check Result
+  - [x] 9. Works | but can't see log => Add console.log(store.getState())
+  - [x] 10. Run on Node.js => check Result

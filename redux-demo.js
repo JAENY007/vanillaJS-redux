@@ -9,7 +9,7 @@ const redux = require('redux');
  * @param {Funtion} action 
  * @returns {state}
  */
-const counterReducer = (state, action) => { 
+const counterReducer = (state = { counter: 0 }, action) => { 
   return {
     counter: state.counter + 1
   }
@@ -19,6 +19,8 @@ const counterReducer = (state, action) => {
  * create new Store
  */
 const store = redux.createStore(counterReducer);
+
+console.log(store.getState());
 
 /**
  * subscriber Function
