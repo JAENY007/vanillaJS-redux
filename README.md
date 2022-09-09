@@ -21,3 +21,7 @@
   - [x] 10. Run on Node.js => check Result (Can see default value)
   - [x] 11. Add Dispatch
   - [x] 12. Run on Node.js => check Result (Can see value after works)
+  - [x] 13. Add action type(increment) in dispatch Function
+  - [x] 14. Run on Node.js => check Result (value after works)
+  - [x] 15. Add another action type(decrement) in dispatch Function
+  - [x] 16. Run on Node.js => check Result (value after works)
