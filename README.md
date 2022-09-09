@@ -25,3 +25,8 @@
   - [x] 14. Run on Node.js => check Result (value after works)
   - [x] 15. Add another action type(decrement) in dispatch Function
   - [x] 16. Run on Node.js => check Result (value after works)
+
+<br>
+
+- [x] Use Redux in HTML + CSS + Vanilla JavaScript Project
+  - [ ] 1. HTML + CSS => mark Up
