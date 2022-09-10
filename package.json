@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JAENY007/vanillaJS-redux#readme",
   "dependencies": {
-    "redux": "^4.2.0"
+    "redux": "^4.2.0",
+    "sass": "^1.54.9"
   }
 }
